@@ -20,7 +20,7 @@ switch (generous)
     generous ='Thank you so much.';
     break;
   case 'not as generous':
-    generous ='Thank you.';
+    tip ='Thank you.';
     break;
   default: 
     tip = 'Bye.'; 
