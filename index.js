@@ -18,4 +18,6 @@ let tip;
 switch ('generous'){
   case ('generous'):
     tip="Thank you so much."
+    break;
+  case ()
 }
