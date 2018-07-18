@@ -18,7 +18,7 @@ switch (tip === 'generous')
   { case 'generous':
     tip ='Thank you so much.';
     break;
-  case ('not as generous'):
+  case 'not as generous':
     tip ='Thank you.';
     break;
   default: 
