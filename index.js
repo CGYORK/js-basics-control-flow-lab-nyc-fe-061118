@@ -25,4 +25,5 @@ switch (tip === 'generous')
     tip = 'Bye.'; 
     break;
   }
+  return tip
 }
