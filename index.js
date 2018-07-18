@@ -19,5 +19,6 @@ switch ('generous'){
   case ('generous'):
     tip="Thank you so much."
     break;
-  case ()
+  case ('not as generous'):
+    tip=""
 }
