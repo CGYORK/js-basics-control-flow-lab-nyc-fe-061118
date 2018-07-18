@@ -17,10 +17,10 @@ function switchOnCharmFromTip(generous) {
 let tip = ''
 switch (generous)
   { case 'generous':
-    tip ='Thank you so much.';
+    generous ='Thank you so much.';
     break;
   case 'not as generous':
-    tip ='Thank you.';
+    generous ='Thank you.';
     break;
   default: 
     tip = 'Bye.'; 
