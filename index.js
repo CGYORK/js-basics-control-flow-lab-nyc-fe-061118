@@ -14,4 +14,5 @@ function ternaryCheckCity(city) {
 }
 
 switch (expression);
-  case ()
+  case ('generous');
+    
