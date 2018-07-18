@@ -13,6 +13,7 @@ function ternaryCheckCity(city) {
   return (city === "NYC") ? "Ok, sounds good." : "No go.";
 }
 
-switch (expression);
-  case ('generous');
+switch (expression){
+  case ('generous'):
     
+}
