@@ -13,6 +13,8 @@ function ternaryCheckCity(city) {
   return (city === "NYC") ? "Ok, sounds good." : "No go.";
 }
 
+let tip;
+
 switch (expression){
   case ('generous'):
     tip="Thank you so much."
