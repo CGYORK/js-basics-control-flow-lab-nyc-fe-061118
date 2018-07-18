@@ -15,7 +15,7 @@ function ternaryCheckCity(city) {
 
 let tip;
 
-switch (expression){
+switch ('generous'){
   case ('generous'):
     tip="Thank you so much."
 }
